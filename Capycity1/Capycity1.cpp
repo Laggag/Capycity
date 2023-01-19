@@ -203,7 +203,7 @@ int main(int argc, char* argv[])
                 break;
             case 2:
                 cout << "Bereich loeschen: " << endl;
-                //
+                
                 //Eingabe
                 cout << "Position x: ";
                 cin >> posx;
