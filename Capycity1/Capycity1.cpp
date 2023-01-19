@@ -186,7 +186,7 @@ int main(int argc, char* argv[])
         {
             case 1:
                 cout << "Gebaeude setzen: " << endl;
-
+                //
                 //Eingabe
                 cout << "Bitte geben Sie den Gebaeudetyp ein.\n Moegliche Gebaeudetypen sind: HOUSE(h), SHOP(s), OFFICE(o): ";
                 cin >> type;
